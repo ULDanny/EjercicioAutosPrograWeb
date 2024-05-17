@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header{
+  padding-left: 20px;
+  display: flex;
+  background-color: bisque;
+  width: 100%;
+}
+
+header ul{
+  display: flex;
+  list-style: none;
+}
+
+header ul li{
+  margin-right: 10px;
+}
+
+.autoInfo{
+  margin-left: 50px;
+  color: blue;
+}
+
+.ingresarNuevoAuto{
+  margin-left: 50px;
+  color: black;
+}
